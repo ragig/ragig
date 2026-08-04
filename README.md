@@ -1,5 +1,5 @@
 ## Hi I am Ragi G 
-## Software Developer| Full Stack Developer
+## Software Developer | Full Stack Developer
 
 ## SKILLS
 - Python
