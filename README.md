@@ -18,7 +18,7 @@
   - <u>XseFI Expense Tracker</u> : Built flask application to track and analyze personal finances end to end ,added category based expense tracker.
   - <u>QR Code Attendence System</u>: Built a client-server attendance system with React.js as frontend and django REST API as backened and MySQL as database.To mark attendance of employes,managers.
   - <u>E-Commerce Website</u>:Designed and developed a multi-role e-commerce platform with Next.js as a Full stack project.  
-## Contact Me
+## Connect Me
 - Email id:ragig2026@gmail.com
 
 
