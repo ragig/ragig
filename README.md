@@ -1,13 +1,19 @@
 ## Hi I am Ragi G 
-## Software Developer | Full Stack Developer
+## Software Developer | Full Stack Developer 
+## Python | Django | React | Next.js
+## I'm a BTech graduate focussed on building web application.Working across Frontend and Backend application.
 
 ## SKILLS
-- Python
-- Django
-- Flask
+- Languages: Python,Javascript
+- Backend : Django ,DRF,Flask
+- Frontend  
 - React.js
 - Next.js
-- GraphQL
+- HTML
+- CSS
+- Bootstrap
+- Database :MySQL,MongoDB
+  
 ## Contact
 - Email id:ragig2026@gmail.com
 
